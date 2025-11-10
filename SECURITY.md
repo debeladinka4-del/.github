@@ -1,4 +1,4 @@
-# Security Policy
+https://www.cloudflare.com/disclosure# Security Policy
 
 https://www.cloudflare.com/disclosure
 
